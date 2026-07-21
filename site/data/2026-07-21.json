@@ -4,7 +4,7 @@
     "brand": "Jason Alpha Daily",
     "subtitle": "V5 PROFESSIONAL · INSTITUTIONAL INVESTMENT BRIEFING",
     "date": "2026-07-21",
-    "cutoff": "公开市场数据更新于 07-21 10:25 · Asia/Shanghai"
+    "cutoff": "公开市场数据更新于 07-21 10:28 · Asia/Shanghai"
   },
   "executive": {
     "headline": "能源领涨，全球风险偏好降温",
@@ -75,20 +75,20 @@
     },
     {
       "name": "WTI",
-      "value": "$82.31",
-      "change": "-0.22%",
+      "value": "$82.30",
+      "change": "-0.23%",
       "change_class": "red"
     },
     {
       "name": "Gold",
-      "value": "$4,028.60",
-      "change": "+0.40%",
+      "value": "$4,027.50",
+      "change": "+0.37%",
       "change_class": "green"
     },
     {
       "name": "USD/CNH",
-      "value": "6.7652",
-      "change": "-0.04%",
+      "value": "6.7655",
+      "change": "-0.03%",
       "change_class": "red"
     }
   ],
@@ -293,30 +293,30 @@
   "china_markets": [
     {
       "name": "上证指数",
-      "value": "3,747.33",
-      "change": "-1.29%",
+      "value": "3,758.23",
+      "change": "-1.00%",
       "change_class": "red"
     },
     {
       "name": "深证成指",
-      "value": "13,380.24",
-      "change": "-1.69%",
+      "value": "13,448.47",
+      "change": "-1.19%",
       "change_class": "red"
     },
     {
       "name": "创业板指",
-      "value": "3,378.76",
-      "change": "-1.87%",
+      "value": "3,399.59",
+      "change": "-1.26%",
       "change_class": "red"
     },
     {
       "name": "科创综指",
-      "value": "1,810.09",
-      "change": "-4.46%",
+      "value": "1,833.32",
+      "change": "-3.24%",
       "change_class": "red"
     }
   ],
-  "china_summary": "A股主要指数平均变动 -2.33%；关注成交扩散、政策信号与科技板块持续性。",
+  "china_summary": "A股主要指数平均变动 -1.67%；关注成交扩散、政策信号与科技板块持续性。",
   "long_term_dashboard": [
     {
       "name": "累计投入",
